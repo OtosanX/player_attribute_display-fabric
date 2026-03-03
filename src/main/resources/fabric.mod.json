@@ -29,10 +29,10 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.17.3",
-		"minecraft": "~1.21.6",
+		"minecraft": "~1.21.11",
 		"java": ">=21",
 		"fabric-api": "*",
-        "fzzy_config": "0.7.3+1.21.6"
+        "fzzy_config": "0.7.3+1.21.11"
 	},
 	"suggests": {
 		"modmenu": "*"
